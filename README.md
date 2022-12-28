@@ -12,9 +12,13 @@ Seglent SSA 3021X Spectrum Analyzer
 
 Agilent E4418B EPM Series Power Meter
 
-Bird 8329-300 2kW oil-cooled RF attenuator
-
 HP 8482H Power Sensor
+
+HP 435B Power Meter
+
+HP 8482A Power Sensor
+
+Bird 8329-300 2kW oil-cooled RF attenuator
 
 Siglent SDM 3055 5 ½ Digits Digital Multimeter
 
