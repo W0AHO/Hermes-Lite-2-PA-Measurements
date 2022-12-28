@@ -20,7 +20,7 @@ HP 8482A Power Sensor
 
 Bird 8329-300 2kW oil-cooled RF attenuator
 
-Siglent SDM 3055 5 ½ Digits Digital Multimeter
+Siglent SDM 3055 5 ½ Digit Digital Multimeter
 
 Two feedback resistors 270 ohm R92 and R99 were replace with 220 ohm resistors.
 
