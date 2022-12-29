@@ -4,7 +4,7 @@ The Hermes Lite 2 was designed to use the LDMOS AFT05MS003N with 5 watt output.
 
 I was sent a pair of LDMOS AFT05MS004N from Steve Haynal.
 
-First a took measurements of the HL2 with the 003's still in the unit to get a baseline for comparison.
+First I took measurements of the HL2 with the 003's still in the unit to get a baseline for comparison.
 
 Test equipment used.
 
